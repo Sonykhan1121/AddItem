@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "741503990570",
+    "project_id": "gentlepark-14a71",
+    "storage_bucket": "gentlepark-14a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741503990570:android:bfdcc645f1163030ca3c53",
+        "android_client_info": {
+          "package_name": "com.example.additem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUykluUA8l4iJQn2FZWjAibhQGf__2MZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741503990570:android:3a68965b39f22b14ca3c53",
+        "android_client_info": {
+          "package_name": "com.example.gentlepark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUykluUA8l4iJQn2FZWjAibhQGf__2MZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
